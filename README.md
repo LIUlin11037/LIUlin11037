@@ -30,12 +30,13 @@
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-3B6529?style=for-the-badge&logo=spring&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-11665F?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Agent 与检索
+### Agent、检索与评测
 
 ![LangChain](https://img.shields.io/badge/LangChain-27604E?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-554387?style=for-the-badge&logo=langgraph&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-3F4B66?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-3F4B66?style=for-the-badge)
+![DeepEval](https://img.shields.io/badge/DeepEval-6A4387?style=for-the-badge)
 
 ### 存储与搜索
 
